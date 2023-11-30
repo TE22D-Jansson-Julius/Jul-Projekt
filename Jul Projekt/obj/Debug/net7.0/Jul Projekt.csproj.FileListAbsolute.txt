@@ -1,0 +1,22 @@
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\Jul Projekt.exe
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\Jul Projekt.deps.json
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\Jul Projekt.runtimeconfig.json
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\Jul Projekt.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\Jul Projekt.pdb
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\Raylib-cs.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\runtimes\win-x64\native\raylib.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\bin\Debug\net7.0\runtimes\win-x86\native\raylib.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.csproj.AssemblyReference.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.AssemblyInfoInputs.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.AssemblyInfo.cs
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.csproj.CoreCompileInputs.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.csproj.CopyComplete
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\refint\Jul Projekt.dll
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.pdb
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\Jul Projekt.genruntimeconfig.cache
+C:\Users\julius.jansson\Desktop\Programering 1\Jul Projekt\Jul Projekt\obj\Debug\net7.0\ref\Jul Projekt.dll

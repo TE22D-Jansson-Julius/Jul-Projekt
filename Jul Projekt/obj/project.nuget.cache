@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uEyl7XWeK4BEZHMVr2KwPKMhU8LWMCHCbszhLvsIOsADgKoEXpcrSXMJOUYDtzn4NdDeHH9mehMjyKnkKscRTQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julius.jansson\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\julius.jansson\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
