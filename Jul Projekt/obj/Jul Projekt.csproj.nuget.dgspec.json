@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj": {}
+    "C:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj": {}
   },
   "projects": {
-    "c:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj": {
+    "C:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj",
+        "projectUniqueName": "C:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj",
         "projectName": "Jul Projekt",
-        "projectPath": "c:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj",
+        "projectPath": "C:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\Jul Projekt.csproj",
         "packagesPath": "C:\\Users\\julius.jansson\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\obj\\",
+        "outputPath": "C:\\Users\\julius.jansson\\Desktop\\Programering 1\\Jul Projekt\\Jul Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
